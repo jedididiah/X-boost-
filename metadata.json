@@ -1,0 +1,6 @@
+{
+  "name": "𝕏 Boost",
+  "description": "Modern Social Media Marketing (SMM) panel for social growth services across X, Instagram, TikTok, Facebook, YouTube, Telegram, and WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
